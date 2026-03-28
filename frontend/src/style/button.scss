@@ -1,0 +1,22 @@
+ .button primary-button{
+
+   display: flex;
+        align-items: center;
+        justify-content: center;
+        gap: 0.6rem;
+        width: calc(100% - 2.5rem);
+        margin: 1.5rem 1.25rem 0.5rem;
+        padding: 1rem;
+        background: linear-gradient(135deg, #6b7fff, #8b9fff);
+        border: none;
+        border-radius: 0.9rem;
+        color: #0d1117;
+        font-size: 1rem;
+        font-weight: 700;
+        cursor: pointer;
+        transition: opacity 0.2s;
+
+        &:hover { opacity: 0.9; }
+
+        svg { flex-shrink: 0; }
+ }

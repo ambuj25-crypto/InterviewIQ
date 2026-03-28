@@ -1,0 +1,14 @@
+@use "./style/button.scss";
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html, body,#root{
+    height: 100%;
+    width: 100%;
+    background-color:rgb(56, 53, 53);
+    font-family:'Times New Roman', Times, serif;
+    color: rgb(163, 159, 159);
+}
