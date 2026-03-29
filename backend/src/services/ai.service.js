@@ -345,16 +345,16 @@ ${jobDescription}
                 }
             ],
             skillGaps: [
-                { skill: "System Design", severity: "medium" }
+            { skill: "Core Concepts", severity: "medium" }
             ],
             preparationPlan: [
-                {
-                    day: 1,
-                    focus: "DSA Basics",
-                    tasks: ["Solve 5 problems", "Revise arrays"]
-                }
+            {
+            day: 1,
+            focus: "Basics",
+            tasks: ["Revise fundamentals", "Practice questions"]
+            }
             ],
-            title: "Software Developer"
+            title: "Interview Preparation"
         };
     }
 }
