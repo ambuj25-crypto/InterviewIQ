@@ -345,13 +345,13 @@ ${jobDescription}
                 }
             ],
             skillGaps: [
-            { skill: "Core Concepts", severity: "medium" }
+                { skill: "Core Concepts", severity: "medium" }
             ],
             preparationPlan: [
             {
-            day: 1,
-            focus: "Basics",
-            tasks: ["Revise fundamentals", "Practice questions"]
+                day: 1,
+                focus: "Basics",
+                tasks: ["Revise fundamentals", "Practice questions"]
             }
             ],
             title: "Interview Preparation"
